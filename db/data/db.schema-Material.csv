@@ -1,0 +1,273 @@
+MaterialNumber,Language,MaterialDescription
+1,DE,"Kleinteil, Langsamdreher"
+1,EN,"Small Part, Slow-Moving Item"
+5,DE,"Handelsware 11, PD, normaler Handel"
+5,EN,"Trad.Good 11,PD,Reg.Trading"
+5,ES,"Trad.Good 11,PD,Reg.Trading"
+6,EN,Hammer Reinforced Training Hand MX
+14,DE,"SEMI301, MTS, PD, Zwischenbaugruppe"
+14,EN,"SEMI301,MTS,PD,Subassembly"
+CM-FL-V00,DE,Gabelstapler
+CM-FL-V00,EN,Forklift
+CM-FL-V01,DE,Gabelstapler
+CM-FL-V01,EN,Forklift
+CM-MLFL-KM-VXX,DE,Mehrebenen-Gabelstapler
+CM-MLFL-KM-VXX,EN,Multi-Level Forklifter
+EWMS4-01,DE,"Kleinteil, Langsamdreher"
+EWMS4-01,EN,"Small Part, Slow-Moving Item"
+EWMS4-02,DE,"Kleinteil, Schnelldreher"
+EWMS4-02,EN,"Small Part, Fast-Moving Item"
+EWMS4-03,EN,"Large Part, Slow-Moving Item"
+EWMS4-10,EN,"Large Part, Slow-Moving Item"
+EWMS4-11,EN,"Large Part, Fast-Moving Item"
+EWMS4-20,EN,"Large Part, Fast-Moving Item, Batches"
+EWMS4-40,EN,"Product for Bulk Storage A, Short Lane"
+EWMS4-41,EN,"Product for Bulk Storage A, Long Lane"
+EWMS4-42,EN,Product for Bulk Storage B
+EWMS4-50,DE,"FIN50, Schnelldreher"
+EWMS4-50,EN,"FIN50,Fast Moving"
+EWMS4-502,DE,"RAW502, Schnelldreher"
+EWMS4-502,EN,"RAW502,Fast Moving"
+EWMS4-503,DE,"RAW503, Schnelldreher"
+EWMS4-503,EN,"RAW503,Fast Moving"
+EWMS4-601,DE,"RAW601, Schnelldreher"
+EWMS4-601,EN,"RAW601,Fast Moving"
+EWMS4-CAR00,DE,EWM: Standardkarton mit SSCC-Generierung
+EWMS4-CAR00,EN,EWM Default Carton with SSCC generation
+EWMS4-PAL00,DE,EWM: Standardpalette mit SSCC-Generier.
+EWMS4-PAL00,EN,EWM Default Pallet with SSCC generation
+EWMS4-PAL01,DE,EWM: US-Palette mit SSCC-Generierung
+EWMS4-PAL01,EN,EWM US Pallet with SSCC generation
+EWMS4-PALISU,DE,EWM: Palette init. Best.-Upl.(kein SSCC)
+EWMS4-PALISU,EN,EWM Pallet Init. Stock Upload (no SSCC#)
+EWMS4-STOCON00,EN,EWM Default Storage Container / Box
+EWMS4-TRUCK00,DE,EWM Standard-LKW
+EWMS4-TRUCK00,EN,EWM Default Truck
+EWMS4-WBTRO00,DE,EWM: Standardgitterboxwagen
+EWMS4-WBTRO00,EN,EWM Default Wire Basket Trolley
+F-10A,ZH,"FIN10A,MTS-DDMRP,PD"
+F-10A,DE,"FIN10A, MTS-DDMRP, PD"
+F-10A,EN,"FIN10A,MTS-DDMRP,PD"
+F-10B,ZH,"FIN10B,MTS-DDMRP,PD"
+F-10B,DE,"FIN10B, MTS-DDMRP, PD"
+F-10B,EN,"FIN10B,MTS-DDMRP,PD"
+F-20A,ZH,"FIN20A,MTS-DDMRP,PD"
+F-20A,DE,"FIN20A, Lagerfertigung - DDMRP, PD"
+F-20A,EN,"FIN20A,MTS-DDMRP,PD"
+FG-FL-MV-V00,DE,Gabelstapler - Materialvariante
+FG-FL-MV-V00,EN,Forklift - Material variant
+FG-FL-MV-V01,DE,Gabelstapler - Materialvariante 1
+FG-FL-MV-V01,EN,Forklift - Material variant 1
+FG-FL-MV-V02,DE,Gabelstapler - Materialvariante 2
+FG-FL-MV-V02,EN,Forklift - Material variant 2
+FG126,DE,"FIN126, MTS-DI, PD, Serialnummer"
+FG126,EN,"FIN126,MTS-DI,PD,SerialNo"
+FG129,ZH,"FIN129,MTS-DI,PD,QM"
+FG129,DE,"FIN129,MTS-DI,PD,QM"
+FG129,EN,"FIN129,MTS-DI,PD,QM"
+FG228,DE,"FIN228, KDE, PD, FIFO Charge"
+FG228,EN,"FIN228,MTO,PD,Batch-Fifo"
+FG233,DE,"FERT 233, PD, Serienfertigung"
+FG233,EN,"FERT 233, PD, Repetitive Manuf."
+FG29,DE,"FIN29, MTS-PI, PD, Charge-Verfalldatum"
+FG29,EN,"FIN29,MTS-PI,PD,Batch-ExpirationDate"
+FG326,ZH,"FIN326,PLM,MTS-DI,PD,Batch-Fifo"
+FG326,DE,"FIN326,PLM,MTS-DI,PD,Batch-Fifo"
+FG326,EN,"FIN326,PLM,MTS-DI,PD,Batch-Fifo"
+FGDAN1,DE,"FIN126, MTS-DI, PD, Serialnummer"
+FGDAN1,EN,Finish good MTS
+NL001,DE,Schraube
+NL001,EN,Screw
+NS0001,EN,Non-Stock Goods for Consumption
+NS0002,DE,Nichtlagermaterial 02
+NS0002,EN,Non-Stock Material 02
+QM001,EN,QM Regular
+QM002,EN,QM Q-Info-Record
+QM003,DE,QM - Dynamisierung
+QM003,EN,QM Dynamic Modification
+QM004,DE,QM - Stichprobenplan
+QM004,EN,QM Sampling Scheme
+QM005,EN,QM Quality Certificate in Procurement
+QM006,DE,QM: PRODUKTIONSCHARGE
+QM006,EN,QM PRODUCTION BATCH
+R-302,ZH,"RAW302,PD"
+R-302,DE,"RAW302, PD"
+R-302,EN,"RAW302,PD"
+R-311,ZH,"RAW311,PD"
+R-311,DE,"RAW311, PD"
+R-311,EN,"RAW311,PD"
+R-401,ZH,"RAW401,D1"
+R-401,DE,"RAW401, D1"
+R-401,EN,"RAW401,D1"
+R-410,ZH,"RAW410,PD"
+R-410,DE,"RAW410, PD"
+R-410,EN,"RAW410,PD"
+R-411,ZH,"RAW411,PD"
+R-411,DE,"RAW411, PD"
+R-411,EN,"RAW411,PD"
+R-412,ZH,"RAW412,PD"
+R-412,DE,"RAW412, PD"
+R-412,EN,"RAW412,PD"
+RM09,DE,"RAW09, PD, FIFO Charge"
+RM09,EN,"RAW09,PD,Batch-Fifo"
+RM12,DE,"RAW12, PD, Serienfertigung"
+RM12,EN,"RAW12,PD,RepetitiveManuf."
+RM120,EN,"RAW120,PD,QualityManaged"
+RM122,DE,"RAW122, PD, FIFO Charge, Import"
+RM122,EN,"RAW122,PD,Batch-Fifo,ProcureImport"
+RM124,DE,"RAW124, VB, Verbrauch, Fixlagerplatz"
+RM124,EN,"RAW124,VB,Consumption,FixedBin"
+RM128,DE,"RAW128, PD, Konsignation"
+RM128,EN,"RAW128,PD,Consignment"
+RM129,ZH,"RAW129,PD"
+RM129,DE,"RAW129, PD"
+RM129,EN,"RAW129,PD"
+RM13,DE,"RAW13, PD, Lohnbearbeitung"
+RM13,EN,"RAW13,PD,Subcontracting"
+RM14,DE,"RAW14, PD, Lohnbearbeitung"
+RM14,EN,"RAW14,PD,Subcontracting"
+RM15,ZH,RAW15,PD
+RM15,DE,"RAW15, PD"
+RM15,EN,"RAW15,PD"
+RM16,ZH,RAW16,PD
+RM16,DE,"RAW16, PD"
+RM16,EN,"RAW16,PD"
+RM17,ZH,RAW17,PD
+RM17,DE,"RAW17, PD"
+RM17,EN,"RAW17,PD"
+RM18,ZH,RAW18,PD
+RM18,DE,"RAW18, PD"
+RM18,EN,"RAW18,PD"
+RM19,DE,"RAW19, PD, FIFO Charge, Lean QM"
+RM19,EN,"RAW19,PD,Batch-Fifo,LeanQM"
+RM20,ZH,RAW20,PD
+RM20,DE,"RAW20, PD"
+RM20,EN,"RAW20,PD"
+RM233-1,DE,"RAW233-1, PD, KANBAN, Umlagerung"
+RM233-1,EN,"RAW233-1, PD, KANBAN Stock Transfer"
+RM233-2,EN,"RAW233-2,ND,KANBAN,sched. agreements"
+RM233-4,EN,"RAW233-4,ND,KANBAN,sched. agreements"
+RM233-6,DE,"RAW233-6, PD, Einkarten-Kanban"
+RM233-6,EN,"RAW233-6, PD, One-Card Kanban"
+RM233-7,EN,"RAW233-7, Kanban, Procure to Cost Center"
+RM234,DE,"RAW234, VB, Serienfertigung"
+RM234,EN,"RAW234,VB,Repetitive Manuf."
+RM235,ZH,RAW235,VB
+RM235,DE,"RAW235, VB"
+RM235,EN,"RAW235,VB"
+RM27,DE,"RAW27, PD, Verpackungsbox"
+RM27,EN,"RAW27,PD,PackagingBox"
+RM28,DE,"RAW28, PD, Verpackungsfolie"
+RM28,EN,"RAW28,PD,PackagingFoil"
+RM30,DE,"RAW30, VB, FIFO Charge"
+RM30,EN,"RAW30,VB,Batch-Fifo"
+RM33,DE,"RAW33, PD, Lohnbearbeitung"
+RM33,EN,"RAW33,PD,Subcontracting"
+RM34,DE,"RAW34, PD, Lohnbearbeitung"
+RM34,EN,"RAW34,PD,Subcontracting"
+RMD01,DE,"RAW30, VB, FIFO Charge"
+RMD01,EN,Raw Material for Trainning
+RMPI001,DE,Einsatz 1 (WASSER)
+RMPI001,EN,Input 1 (WATER)
+RMPI002,DE,Einsatz 2 (STOFF 2)
+RMPI002,EN,Input 2 (AGENT 2).
+RMPI003,DE,Einsatz 3 (STOFF 3)
+RMPI003,EN,Input 3 (AGENT 3)
+RMPI004,DE,Einsatz 4 (Stoff 4)
+RMPI004,EN,Input 4 (Agent 4)
+RMPI005,DE,Einsatz 5 (blaue Farbe)
+RMPI005,EN,Input 5 (Blue Color)
+RMPI006,DE,Einsatz X (orange Farbe)
+RMPI006,EN,Input X (Orange Color)
+RMPI007,DE,Einsatz 7 (Stoff 7)
+RMPI007,EN,Input 7 (Agent 7)
+RMPI008,DE,Einsatz 8 (Stoff 8)
+RMPI008,EN,Input 8 (Agent 8)
+RMPI009,DE,Einsatz 9 (Stoff 9)
+RMPI009,EN,Input 9 (Agent 9)
+RMPI010,DE,Einsatz 10 (Stoff 10)
+RMPI010,EN,Input 10 (Agent 10)
+RMPI011,DE,Einsatz 11 (Stoff 11)
+RMPI011,EN,Input 11 (Agent 11)
+RMPI012,DE,Einsatz 12 (Stoff 12)
+RMPI012,EN,Input 12 (Agent 12)
+RMPI013,EN,Input 13 (Green Color)
+RMPI014,EN,Input 14 (Green Color 2)
+RMPI015,ZH,INPUT15
+RMPI015,DE,EINSATZ 15
+RMPI015,EN,INPUT15
+RMPI016,ZH,INPUT16
+RMPI016,DE,EINSATZ 16
+RMPI016,EN,INPUT16
+RP001,DE,"Leergut, ND"
+RP001,EN,"Empties,ND"
+S-201,DE,"SEMI201, MTS, D1, Zwischenbaugruppe"
+S-201,EN,"SEMI201,MTS,D1,Subassembly"
+S-202,ZH,"SEMI202,MTS,D1"
+S-202,DE,"SEMI202, MTS, D1"
+S-202,EN,"SEMI202,MTS,D1"
+S-203,ZH,"SEMI203,D1"
+S-203,DE,"SEMI203,D1"
+S-203,EN,"SEMI203,D1"
+S-208,EN,"SEMI208,MTS,PD,Subassembly"
+S-210,EN,"SEMI210,MTS,PD,Subassembly"
+S-301,DE,"SEMI301, MTS, PD, Zwischenbaugruppe"
+S-301,EN,"SEMI301,MTS,PD,Subassembly"
+S-310,EN,"SEM310,MTS,PD,Subassembly"
+S-315,EN,"SEM315,MTS,PD,Subassembly"
+SDBOMERLAHD,EN,SD BOM Header ERLA
+SDBOMERLAIT01,EN,SD BOM ERLA Item01
+SDBOMERLAIT02,EN,SD BOM ERLA Item02
+SDBOMLUMFHD,EN,SD BOM Header LUMF
+SDBOMLUMFIT01,EN,SD BOM LUMF Item01
+SDBOMLUMFIT02,EN,SD BOM LUMF Item02
+SF-FL-COMB,DE,Gabelstapler Basis Verbrennungsmodell
+SF-FL-COMB,EN,Forklift Base Combustion Model
+SF-FL-CWEIGHT,DE,Gabelstapler - Gewichtsausgleichsplatte
+SF-FL-ELECTRIC,DE,Gabelstapler Basis elektrisches Modell
+SF-FL-ELECTRIC,EN,Forklift Base Electrical Model
+SF-FL-FORK-L,EN,Forklift Large Fork
+SF-FL-FORK-M,EN,Forklift Medium Fork
+SF-FL-FORK-S,DE,Gabelstapler - kleine Gabel
+SF-FL-FORK-S,EN,Forklift Small Fork
+SF-FL-FORKSEAT-VXX,DE,Sitztyp des Gabelstaplers (HALB)
+SF-FL-FORKSEAT-VXX,EN,Seat Type of Fork lifter(HALB)
+SF-FL-TIRE-CUSH,DE,Gabelstapler - Hohlkammerreifen
+SF-FL-TIRE-CUSH,EN,Forklift Cushion Tire
+SF-FL-TIRE-PNEU,DE,Gabelstapler - Luftreifen
+SF-FL-TIRE-PNEU,EN,Forklift Pneumatic Tire
+SG124,DE,"SEMI124, PD, Zwischenbaugruppe"
+SG124,EN,"SEMI124,PD,Subassembly"
+SG21,DE,"SEMI21, PD, Serienfertigung"
+SG21,EN,"SEMI21,PD,RepetitiveManuf."
+SG22,DE,"SEMI22, PD, Dummy-Baugruppe"
+SG22,EN,"SEMI22,PD,Phantom"
+SG224,DE,"SEMI224, MTO, PD, Zwischenbaugruppe"
+SG224,EN,"SEMI224,MTO,PD,Subassembly"
+SG23,DE,"SEMI23, PD, Lohnbearbeitung"
+SG23,EN,"SEMI23,PD,Subcontracting"
+SG233,ZH,SEMI233,PD,KANBAN,REM
+SG233,DE,"SEMI233, PD, KANBAN, Serienfertigung"
+SG233,EN,"SEMI233,PD,KANBAN, REM"
+SG234,DE,"SEMI233, PD, KANBAN, LF"
+SG234,EN,"SEMI234,PD,KANBAN, MTS"
+SG24,DE,"SEMI24, PD, FIFO Charge"
+SG24,EN,"SEMI24,PD,Batch-Fifo"
+SG25,DE,"SEMI25, PD, Fremdbeschaffung"
+SG25,EN,"SEMI25,PD,ExternalProcurement"
+SG27,DE,"SEMI27, PD, Lohnbearbeitung"
+SG27,EN,"SEMI27,PD,Subcontracting"
+SG29,ZH,"SEM29,PD,QM"
+SG29,DE,"SEM29,PD,QM"
+SG29,EN,"SEM29,PD,QM"
+SG325A,DE,"SEMI325A, PLM, PD, Fremdbeschaffung"
+SG325A,EN,"SEMI325A,PLM,PD,ExternalProcurement"
+SG325B,DE,"SEMI325B, ECM, PD, Fremdbeschaffung"
+SG325B,EN,"SEMI325B,ECM,PD,ExternalProcurement"
+SGPI001,DE,AUSBEUTE 1
+SGPI001,EN,OUTPUT 1
+SGPI001-V00,DE,AUSBEUTE 1
+SGPI001-V00,EN,OUTPUT 1
+TG22,DE,"HAWA 22, Bestellpkt, Verfalldatum Charge"
+TG22,EN,"Trad.Good 22,Reorder Point,Batch-ExpD"
+Z_TEST,EN,Z_TEST
