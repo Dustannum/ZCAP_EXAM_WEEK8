@@ -4,6 +4,7 @@ entity Order {
     key OrderNumber            : String(10);
 
         @mandatory
+        @assert.format: '[A-Z]+'
         DocumentType           : String(4) default 'NB';
 
         @mandatory
@@ -33,6 +34,13 @@ entity Order {
         Sent                   : Boolean default false;
 }
 
+type Unit : String(2) enum {
+    PC;
+    KG;
+    GR;
+    MG
+}
+
 entity OrderItem {
     key OrderNumber         : Association to one Order;
     key OrderItemNumber     : Integer;
@@ -41,7 +49,7 @@ entity OrderItem {
         @readonly
         MaterialDescription : String;
         Quantity            : Double;
-        Unit                : String(2);
+        Unit                : Unit;
         NetPrice            : Double;
         Plant               : String(4);
 }
@@ -58,4 +66,8 @@ entity Vendor {
 
         @readonly
         CountryRegion       : String(3)
+}
+
+entity Units {
+    key Unit : String(2)
 }

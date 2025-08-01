@@ -13,13 +13,13 @@ service MainService {
 
     entity OrderItem as projection on schema.OrderItem;
 
-    entity Material  as projection on schema.Material
-        actions {
-            action CreateMaterial(Material: String(40) @mandatory, MaterialDescription: String @UI.MultiLineText );
-        };
+    entity Material  as projection on schema.Material;
 
-    entity Vendor    as projection on schema.Vendor
-        actions {
-            action CreateVendor(Supplier: String(10) @mandatory, SupplierDescription: String @UI.MultiLineText )
-        };
+    entity Vendor    as projection on schema.Vendor;
+
+    entity Units     as projection on schema.Units;
+
+    action CreateMaterial(Material: String(40) @mandatory, MaterialDescription: String @UI.MultiLineText );
+    action CreateVendor(Supplier: String(10) @mandatory, SupplierDescription: String @UI.MultiLineText );
+
 }

@@ -164,3 +164,62 @@ annotate service.OrderItem with @(
     ]
 );
 
+annotate service.Order with {
+    Supplier @(
+        Common.ValueList : {
+            $Type : 'Common.ValueListType',
+            CollectionPath : 'Vendor',
+            Parameters : [
+                {
+                    $Type : 'Common.ValueListParameterInOut',
+                    LocalDataProperty : Supplier,
+                    ValueListProperty : 'Supplier',
+                },
+            ],
+            Label : 'Supplier',
+        },
+        Common.ValueListWithFixedValues : true,
+)};
+
+annotate service.Vendor with {
+    Supplier @Common.Text : SupplierDescription
+};
+
+annotate service.OrderItem with {
+    MaterialNumber @(
+        Common.ValueList : {
+            $Type : 'Common.ValueListType',
+            CollectionPath : 'Material',
+            Parameters : [
+                {
+                    $Type : 'Common.ValueListParameterInOut',
+                    LocalDataProperty : MaterialNumber,
+                    ValueListProperty : 'MaterialNumber',
+                },
+            ],
+            Label : '{i18n>Materialnumber}',
+        },
+        Common.ValueListWithFixedValues : true,
+)};
+
+annotate service.Material with {
+    MaterialNumber @Common.Text : MaterialDescription
+};
+
+annotate service.OrderItem with {
+    Unit @(
+        Common.ValueList : {
+            $Type : 'Common.ValueListType',
+            CollectionPath : 'Units',
+            Parameters : [
+                {
+                    $Type : 'Common.ValueListParameterInOut',
+                    LocalDataProperty : Unit,
+                    ValueListProperty : 'Unit',
+                },
+            ],
+            Label : 'Unit',
+        },
+        Common.ValueListWithFixedValues : true,
+)};
+

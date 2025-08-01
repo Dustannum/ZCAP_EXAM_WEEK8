@@ -41,7 +41,7 @@ annotate service.Material with @(
         },
         {
             $Type : 'UI.DataFieldForAction',
-            Action : 'MainService.CreateMaterial',
+            Action : 'MainService.EntityContainer/CreateMaterial',
             Label : '{i18n>Creatematerial}',
         },
     ],

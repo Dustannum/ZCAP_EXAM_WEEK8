@@ -46,7 +46,7 @@ annotate service.Vendor with @(
         },
         {
             $Type : 'UI.DataFieldForAction',
-            Action : 'MainService.CreateVendor',
+            Action : 'MainService.EntityContainer/CreateVendor',
             Label : '{i18n>Createvendor}',
         },
     ],
