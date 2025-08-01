@@ -41,7 +41,7 @@ entity OrderItem {
         @readonly
         MaterialDescription : String;
         Quantity            : Double;
-        Unit                : Integer;
+        Unit                : String(2);
         NetPrice            : Double;
         Plant               : String(4);
 }

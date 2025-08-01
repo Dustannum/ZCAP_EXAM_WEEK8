@@ -17,5 +17,11 @@
         }
       }
     }
-  }
+  },
+  "sapux": [
+    "app/order",
+    "app/orderitem",
+    "app/material",
+    "app/vendor"
+  ]
 }

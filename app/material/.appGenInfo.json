@@ -1,0 +1,28 @@
+{
+  "generationParameters": {
+    "generationDate": "Fri Aug 01 2025 14:02:13 GMT+0700 (Western Indonesia Time)",
+    "generatorPlatform": "Visual Studio Code",
+    "serviceType": "Local CAP",
+    "metadataFilename": "",
+    "serviceUrl": "http://localhost:4004/odata/v4/MainService/",
+    "appName": "material",
+    "appTitle": "Materials",
+    "appDescription": "Material Manager",
+    "appNamespace": "",
+    "ui5Theme": "sap_horizon_dark",
+    "ui5Version": "1.138.1",
+    "enableCodeAssist": false,
+    "enableEslint": false,
+    "showMockDataInfo": false,
+    "generatorVersion": "1.18.3",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "Material"
+      }
+    ],
+    "launchText": "To launch the generated app, start your CAP project:  (```mvn spring-boot:run```) and navigate to the following location in your browser:\n\nhttp://localhost:8080/material/webapp/index.html"
+  }
+}
